@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>https://ainoriex.github.io/post/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 May 2020 02:28:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://ainoriex.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introduction</title>
+      <link>https://ainoriex.github.io/post/introduction/</link>
+      <pubDate>Mon, 18 May 2020 02:28:00 +0800</pubDate>
+      
+      <guid>https://ainoriex.github.io/post/introduction/</guid>
+      <description>2020.5.18
+WELCOME!
+这里是AInoriex！
+你也可以叫我Alex，小向，小高都行……
+有一说一，鄙人身高194，故喜提爱称小高。
+我终于算是成功创建个人blog，
+容许我再一次，
+HELLO BLOG WORLD！
+AInoriex是自己创造的一个网名？笔名？都行吧
+细心的你容易发现是由Alex和Inori组成，
+Alex不用多说，
+Inori是我未来女盆友的名字（认真脸），
+来自番剧《罪恶王冠》的女主，
+没错，
+本人也是忠实二刺螈！
+Anyway，
+介绍似乎就这么多了，
+以后多多指教啦！（夜露死苦）</description>
+    </item>
+    
+    <item>
+      <title>5.17新建文章tips</title>
+      <link>https://ainoriex.github.io/post/5.17crearticle/</link>
+      <pubDate>Sun, 17 May 2020 00:45:43 +0800</pubDate>
+      
+      <guid>https://ainoriex.github.io/post/5.17crearticle/</guid>
+      <description>2020.5.17	0:40
+test blog
+refer to：(https://www.cnblogs.com/Codemandyk/p/10855891.html)
+ 创建blog文章：  1.1 自己创建一个.md文件需在前面添加：
+--- title: &amp;quot;标题&amp;quot; date: 2020-05-17T00:45:43+08:00//时间 draft: true//true ot false ---   编写blog：
+2.1VScode或者Typora/markdown都行
+（tips：图片插入可右键选择在新标签页打开图片即可获取图片.png地址）
+2.2似乎得编辑过程中回车两行才能在网页上换一行， 否则在网页上显示不换行？？？
+ 没错，这就是我上一次blog被我删掉的原因之一！ （这里前面加了个tab独立出来了个框框）  没错，这就是我上一次blog被我删掉的原因之一！
+看看下面这截图就懂了：
+（原链接） (删除了@1320w_380h.webp)
+ 1.本人打算借助b站来获取本地图片的地址。(删不删链接后缀@1320w_380h.webp都行) 2.唯一弊端是需要点审核时间而且你的b站空间动态会很莫名其妙？？？    启动博客命令，输入 hugo server -t twentyfourteen-master（主题名） &amp;ndash;buildDrafts
+ 按Ctrl+C结束  3.1在启动博客命令过程中，可以进行编辑，并且即时反馈修改后的状态，超赞qwq
+3.2需要cd到blog根目录才可以执行！
+  浏览器打开 http://localhost:1313 测试效果
+  ###################################################
+= = = = = = = = = = = =END= = = = = = = = = = = = =</description>
+    </item>
+    
+    <item>
+      <title>5.16firstBlog</title>
+      <link>https://ainoriex.github.io/post/516firstblog/</link>
+      <pubDate>Sat, 16 May 2020 18:57:39 +0800</pubDate>
+      
+      <guid>https://ainoriex.github.io/post/516firstblog/</guid>
+      <description>Hello World!
+这里是AInoriex，
+于2020.5.16创建的第一篇blog，
+先前在五一劳动节第一次创建了个人blog，
+因不明bug（技术太菜）而不得不销毁。
+总而言之，
+十几天后再一次创立这blog，
+多多指教啦（希望别出现奇奇怪怪的bug）
+平时会在这里上传个人学习心得，
+以及对周边发生的，遇到的事情的见解（很大部分锚定于他人观点）
+当然也有一些奇奇怪怪的日常什么的，
+Who knows？
+不多bb了，下一篇再简单介绍下自己吧。</description>
+    </item>
+    
+  </channel>
+</rss>
